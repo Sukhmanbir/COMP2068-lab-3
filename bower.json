@@ -1,0 +1,24 @@
+{
+  "name": "COMP2068 Lab 3 deployed to Heroku",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Sukhmanbir Kaur"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Sukhmanbir/COMP2068-lab-3",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
